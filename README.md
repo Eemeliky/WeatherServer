@@ -1,4 +1,4 @@
-# Simple weather observation java server made as a school project
+# Simple weather observation java server
 
 ### Features:
 - Live weather data fetching
